@@ -1,4 +1,4 @@
-package problemB;
+package recursion;
 
 import java.util.*;
 import java.io.*;

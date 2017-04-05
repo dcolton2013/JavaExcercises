@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package problemB;
+package recursion;
 import java.util.*;
 
 /** Donovan Colton
