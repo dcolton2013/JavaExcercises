@@ -1,12 +1,6 @@
-package quicksorting;
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+//package quicksorting;
 import java.util.*;
+
 /**
  * @authors Donovan Colton
  *
@@ -35,10 +29,6 @@ public class QuicksortAnalysis {
 //        System.out.print("\t");
 //        for (int num: nums1)
 //            System.out.print(num + "  ");
-        /*
-        *
-        */
-        Random rng = new Random();
         int[] lengths = new int[10];
         lengths[0] = 100;  lengths[1] = 500;
         lengths[2] = 700;  lengths[3] = 1000;
@@ -59,7 +49,7 @@ public class QuicksortAnalysis {
             lomuto(nums2);
             
             System.out.println();
-       }
+        }
         
     }
     
